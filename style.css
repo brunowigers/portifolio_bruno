@@ -14,3 +14,7 @@ heder{
     background-color:#4e3f30;
     height: 4em;
 }
+img{
+    width: 50%;
+    border-radius: 18px;;
+}
