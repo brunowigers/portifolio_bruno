@@ -4,16 +4,17 @@
 }
 
 body{
-    background-color: #a5b3aa;
+    background-color: red;
     font-size: 16px;
     color: #fefeeb;
-
+    font-family: sans-serif;
 }
 
 heder{
     background-color:#4e3f30;
     height: 4em;
 }
+
 img{
     width: 50%;
     border-radius: 18px;;
