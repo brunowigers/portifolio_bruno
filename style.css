@@ -26,7 +26,7 @@ img{
     flex: 1;
  }
 
-selection{
+section{
     margin: 10%;
     display: flex;
     justify-content: space-between;
