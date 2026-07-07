@@ -16,6 +16,7 @@ heder{
 }
 
 img{
-    width: 50%;
     border-radius: 18px;;
+    max-width: 100%;
+    height: auto;
 }
