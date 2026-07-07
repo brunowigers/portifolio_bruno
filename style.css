@@ -29,4 +29,5 @@ img{
 selection{
     margin: 10%;
     display: flex;
+    justify-content: space-between;
 }
