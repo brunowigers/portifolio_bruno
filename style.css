@@ -21,7 +21,7 @@ img{
     height: auto;
 }
  main{
-    background-color: rgb(141, 182, 236);
+    background-color: rgb(255, 255, 255);
     color: azure;
     flex: 1;
  }
