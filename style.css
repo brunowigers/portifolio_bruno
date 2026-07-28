@@ -59,7 +59,7 @@ strong {
 header h1 { 
     padding: 1em;
     text-align: center;
-    color: rgb(248, 50, 50);
+    color: rgb(255, 254, 254);
     background-color: rgb(5, 59, 81);
     width: 100%;
 }
@@ -85,7 +85,7 @@ img {
 
 
 li a {
-    color: white;
+    color: rgb(255, 12, 12);
     text-decoration: none;
     text-align: center;
 }
