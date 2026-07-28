@@ -22,7 +22,7 @@ img{
 }
  main{
     background-color: rgb(255, 255, 255);
-    color: azure;
+    color: rgb(5, 5, 5);
     flex: 1;
  }
 
